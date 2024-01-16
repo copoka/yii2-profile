@@ -13,7 +13,7 @@ The preferred way to install the Yii framework is through [composer](http://getc
 Either run
 
 ```
-php composer.phar require --prefer-dist "copoka/yii2-profile *"
+php composer.phar require copoka/yii2-profile "*"
 ```
 
 or add
