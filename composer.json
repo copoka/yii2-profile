@@ -1,0 +1,31 @@
+{ 
+    "name": "copoka/yii2-profile", 
+    "type": "yii2-module",
+    "description": "Yii2 User Account Management",
+    "keywords": ["yii2", "user", "profile", "yii2-user", "yii"],
+    "license": "copoka License We will soon post it here",
+    "support": {
+        "issues": "https://github.com/copoka/yii2-profile/issues",
+        "forum": "http://copoka.co.tz/forum/",
+        "wiki": "http://www.yiiframework.com/wiki/",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/copoka/yii2-profile"
+    },
+    "authors": [
+        {
+            "name": "Stefano Mtangoo",
+            "email": "support@copoka.co.tz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*", 
+        "yiisoft/yii2-jui": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "copoka\\profile\\": ""
+        }
+    }
+}
+
+
